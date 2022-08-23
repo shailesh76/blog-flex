@@ -1,0 +1,7 @@
+new prooject to repo:
+create new repo in githu
+go to local projrect,open treminal inside the main foler of the project and initialize the git by ruin =git init
+add the file to the index by running git add or -a or specific file name
+write the message what change did you make and put the files in the staging by running git commit -m "actual message here". staging
+set remote address to the project
+send the code to the github by running git push -u orgin<branch name> for the first time only, for next push use git push only.
